@@ -1,0 +1,10 @@
+C:\Users\aa.terentiev\RiderProjects\Gml.MServer.Lib\src\Gml.MServer.Lib\bin\Debug\netstandard2.1\Gml.MServer.Lib.deps.json
+C:\Users\aa.terentiev\RiderProjects\Gml.MServer.Lib\src\Gml.MServer.Lib\bin\Debug\netstandard2.1\Gml.MServer.Lib.dll
+C:\Users\aa.terentiev\RiderProjects\Gml.MServer.Lib\src\Gml.MServer.Lib\bin\Debug\netstandard2.1\Gml.MServer.Lib.pdb
+C:\Users\aa.terentiev\RiderProjects\Gml.MServer.Lib\src\Gml.MServer.Lib\obj\Debug\netstandard2.1\Gml.MServer.Lib.csproj.AssemblyReference.cache
+C:\Users\aa.terentiev\RiderProjects\Gml.MServer.Lib\src\Gml.MServer.Lib\obj\Debug\netstandard2.1\Gml.MServer.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aa.terentiev\RiderProjects\Gml.MServer.Lib\src\Gml.MServer.Lib\obj\Debug\netstandard2.1\Gml.MServer.Lib.AssemblyInfoInputs.cache
+C:\Users\aa.terentiev\RiderProjects\Gml.MServer.Lib\src\Gml.MServer.Lib\obj\Debug\netstandard2.1\Gml.MServer.Lib.AssemblyInfo.cs
+C:\Users\aa.terentiev\RiderProjects\Gml.MServer.Lib\src\Gml.MServer.Lib\obj\Debug\netstandard2.1\Gml.MServer.Lib.csproj.CoreCompileInputs.cache
+C:\Users\aa.terentiev\RiderProjects\Gml.MServer.Lib\src\Gml.MServer.Lib\obj\Debug\netstandard2.1\Gml.MServer.Lib.dll
+C:\Users\aa.terentiev\RiderProjects\Gml.MServer.Lib\src\Gml.MServer.Lib\obj\Debug\netstandard2.1\Gml.MServer.Lib.pdb

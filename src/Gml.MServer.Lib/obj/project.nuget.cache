@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LMXRWm614I4ZqTbafcSBgcDXxZKQdXSZj3ux/cjtWoUqrL6AZ6UDSsWKImN8PvI9OlOWnrchTYgGsp8oyZkawg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aa.terentiev\\RiderProjects\\Gml.MServer.Lib\\src\\Gml.MServer.Lib\\Gml.MServer.Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aa.terentiev\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

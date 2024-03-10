@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{CA8E5CCA-82E4-4E4F-9A5D-A697FDCB272D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5CD496C1-D196-40F8-8B90-9C10450B762C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{981F9472-50F3-4162-B346-6DE09E664242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gml.MServer.Lib", "src\Gml.MServer.Lib\Gml.MServer.Lib.csproj", "{3BC9A8F2-5E68-4346-9417-AE815015FE48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gml.MServer.Tests", "tests\Gml.MServer.Tests\Gml.MServer.Tests.csproj", "{63303B40-55FC-4573-B7F1-14A9AD505936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BC9A8F2-5E68-4346-9417-AE815015FE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC9A8F2-5E68-4346-9417-AE815015FE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC9A8F2-5E68-4346-9417-AE815015FE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC9A8F2-5E68-4346-9417-AE815015FE48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63303B40-55FC-4573-B7F1-14A9AD505936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63303B40-55FC-4573-B7F1-14A9AD505936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63303B40-55FC-4573-B7F1-14A9AD505936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63303B40-55FC-4573-B7F1-14A9AD505936}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3BC9A8F2-5E68-4346-9417-AE815015FE48} = {5CD496C1-D196-40F8-8B90-9C10450B762C}
+		{63303B40-55FC-4573-B7F1-14A9AD505936} = {981F9472-50F3-4162-B346-6DE09E664242}
+	EndGlobalSection
+EndGlobal
